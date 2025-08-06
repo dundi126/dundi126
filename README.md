@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dundi</h1>
-<h3 align="center">Frontend Developer | Master's Student @ University of Michigan</h3>
+<h3 align="center">Software Developer | Master's Student @ University of Michigan</h3>
 
 ##
 
-Hi, I'm **Dundi** — a passionate frontend developer and a master’s student at the **University of Michigan**. I love crafting standout, user-centric digital experiences and turning original ideas into real, impactful solutions.
+Hi, I'm **Dundi** — a passionate Software developer and a master’s student at the **University of Michigan**. I love crafting standout, user-centric digital experiences and turning original ideas into real, impactful solutions.
 
 - 🎓 Pursuing my **Master’s in Computer Science** @ **UofM**
-- 💼 **AI Intern (Frontend Developer)** @ **PM Accelerators**
-- 🌱 Currently building: **SensAI** – an AI-powered platform, inspired by YouTube
+- 💼 **AI Intern (Software Developer)** @ **PM Accelerators**
+- 🌱 Currently building: **MyHandyAI** – your go-to AI helper for everyday home repairs
 - 🎨 Advocate of **minimalist design** for clean, intuitive UX
 - 🚀 Always learning. Always building.
 
@@ -28,6 +28,9 @@ Hi, I'm **Dundi** — a passionate frontend developer and a master’s student a
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/ </a>
+
+
   <!-- Add more icons as needed -->
 </p>
 
@@ -35,8 +38,9 @@ Hi, I'm **Dundi** — a passionate frontend developer and a master’s student a
 
 ## 🚀 Projects & Interests
 
-- 🎥 **SensAI**: AI-enhanced video platform, inspired by YouTube.
-- 🤖 **Pedro.AI**: Your next-gen AI companion (in progress).
+- 📱 Currently learning Swift and exploring iOS app development.
+- 🎒 Planning to build a student-focused app to digitally carry all essential IDs and passes.
+- 🛠️ Working on MyHandyAI – an AI-powered assistant for home installations, repairs, and DIY
 - 🧭 **Next Up**: Screen mirroring + device-to-device transfer system.
 - 💡 I enjoy solving unique problems with clean, creative code.
 
