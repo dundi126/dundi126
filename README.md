@@ -10,7 +10,7 @@
 
 ## 🚀 What I'm Building Right Now
 
-### meet.ai – AI Meeting Companion That Actually Works
+### Therapy.ai – AI Meeting Companion That Actually Works
 Ever wished you could have a focused conversation with AI without the ChatGPT UI clutter? Building **meet.ai** - a dedicated meeting interface where you can have deep, recorded conversations with AI that feel more like actual meetings than chat sessions.
 
 **The Vision:** Instead of scrolling through endless ChatGPT threads, you schedule "meetings" with AI, have structured conversations, and get full transcripts + recordings for reference later. Perfect for brainstorming, debugging complex problems, or working through ideas.
