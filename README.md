@@ -4,6 +4,8 @@
 <p align="center">
   <a href="mailto:dundi@umich.edu">📧 Email</a> •
   <a href="https://linkedin.com/in/dundi">💼 LinkedIn</a> •
+  <a href="https://dundi-gutti.vercel.app">💼 Portfolio</a> 
+  
 </p>
 
 ---
@@ -129,18 +131,6 @@ Created a TypeScript package that handles API errors gracefully. Your UI won't c
 I tried to start a company with a friend—we had 45 days to build an MVP for investors. Built a full Flutter app with FastAPI backend while learning OAuth, JWT, and Swift simultaneously. Didn't get the funding, but learned more in those 45 days than in any semester of school.
 
 **Now:** Interning at PM Accelerator, building AI-powered products, and constantly learning new tech.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dundi126&theme=dark" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dundi126&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
 
 ---
 
