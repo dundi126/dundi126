@@ -2,9 +2,9 @@
 <h3 align="center">Building stuff that matters | CS Grad Student @ UMich</h3>
 
 <p align="center">
-  <a href="mailto:dundi@umich.edu">📧 Email</a> •
-  <a href="https://linkedin.com/in/dundi">💼 LinkedIn</a> •
-  <a href="https://dundi-gutti.vercel.app">💼 Portfolio</a> 
+  <a href="mailto:dundi@umich.edu"> Email</a> •
+  <a href="https://linkedin.com/in/dundi"> LinkedIn</a> •
+  <a href="https://dundi-gutti.vercel.app"> Portfolio</a> 
   
 </p>
 
